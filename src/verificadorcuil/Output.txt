@@ -1,0 +1,12 @@
+El cuil ingresado  [20398707389] es [CORRECTO]
+El cuil ingresado  [20378766389] es [CORRECTO]
+El cuil [20313131313131] es INVALIDO
+El cuil ingresado  [27986997355] es [INCORRECTO] 
+ El Digito verificador debería ser: [4]
+El cuil [787878] es INVALIDO
+El cuil ingresado  [23398707387] es [INCORRECTO] 
+ El Digito verificador debería ser: [2]
+El cuil ingresado  [23398707118] es [INCORRECTO] 
+ El Digito verificador debería ser: [9]
+El cuil ingresado  [20356607926] es [INCORRECTO] 
+ El Digito verificador debería ser: [8]
